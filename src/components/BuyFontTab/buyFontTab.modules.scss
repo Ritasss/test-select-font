@@ -1,0 +1,10 @@
+.buy-font-tab {
+    display: flex;
+
+    &.hide {
+        display: none;
+    }
+    .font-item {
+        margin: auto;
+    }
+}
